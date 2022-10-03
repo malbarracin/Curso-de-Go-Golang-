@@ -1,1 +1,1 @@
-# Curso-de-Go-Golang-
+Curso de Go (Golang)
